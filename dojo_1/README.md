@@ -31,4 +31,4 @@ What was bad?
 
 For the next time:
 
-...
+- Better keyboard, we used the Apple wireless keyboard and everyone had problems with it.
